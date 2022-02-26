@@ -1,9 +1,10 @@
-#Hello github records
+# Hello github records
 
 This project is used for recording all project which I'm interested in. All those interesting projects come from project [hello-github](https://hellogithub.com/)
 
 ## 69
 ### [quadsort](https://github.com/scandum/quadsort)
+![quadsort](images/69-quadsort.png)
 一种比快速排序快，稳定的归并排序算法。项目包含原理讲解、C 语言实现、性能对比和排序过程
 
 ### [minilisp](https://github.com/rui314/minilisp)
