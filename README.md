@@ -32,9 +32,6 @@ JetBrains 为开发者开源的免费字体。该字体形状简单没有不必�
 ### [chibicc](https://github.com/rui314/chibicc)
 A small C compiler. It's fun to read it from the [first commit](https://github.com/rui314/chibicc/commit/0522e2d77e3ab82d3b80a5be8dbbdc8d4180561c)
 
-### [Python-Mini-Projects](https://github.com/Python-World/python-mini-projects)
-A collection of simple python mini projects to enhance your python skills.
-
 ### [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
 It's a book which documents commonly-known and lesser-known methods of doing various tasks using only built-in `bash` features.
 
