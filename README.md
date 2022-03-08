@@ -20,9 +20,9 @@ This project is used for recording all project which I'm interested in. All thos
 ### [tinyssh](https://github.com/janmojzis/tinyssh)
 极简 SSH 服务器。为了便于学习仅保留了基础功能，而且抛弃了较旧的加密算法。该项目的学习价值大于实用价值，适合对 SSH 和加密知识感兴趣的小伙伴
 
-### [LiveChart2](https://github.com/beto-rodriguez/LiveCharts2)
+### [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2)
 简单、灵活、强大的 .Net 图表库。支持 WPF、WinForms、WinUI、UWP 等
-![LiveChart2](images/70-LiveChart2.gif)
+![LivesChart2](images/70-LiveCharts2.gif)
 
 ### [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)
 JetBrains 为开发者开源的免费字体。该字体形状简单没有不必要的细节，从而阅读起来十分轻松而且小尺寸时显示更加清晰
