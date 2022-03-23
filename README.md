@@ -39,4 +39,4 @@ It's a book which documents commonly-known and lesser-known methods of doing var
 Programmer's guide about how to cook at home (Chinese only).[Related website](https://cook.aiurs.co/)
 
 ### [Article](https://github.com/HelloGitHub-Team/Article)
-This is collection of articles which are used to guide beginners their first project in Github.
+This is a collection of articles that guide beginners on their first project in Github.
