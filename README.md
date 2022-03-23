@@ -35,4 +35,8 @@ A small C compiler. It's fun to read it from the [first commit](https://github.c
 ### [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
 It's a book which documents commonly-known and lesser-known methods of doing various tasks using only built-in `bash` features.
 
+### [How to Cook](https://github.com/Anduin2017/HowToCook)
+Programmer's guide about how to cook at home (Chinese only).[Related website](https://cook.aiurs.co/)
 
+### [Article](https://github.com/HelloGitHub-Team/Article)
+This is collection of articles which are used to guide beginners their first project in Github.
