@@ -40,3 +40,36 @@ Programmer's guide about how to cook at home (Chinese only).[Related website](ht
 
 ### [Article](https://github.com/HelloGitHub-Team/Article)
 This is a collection of articles that guide beginners on their first project in Github.
+
+## 72
+### [hashcat](https://github.com/hashcat/hashcat)
+hashcat is the world's fastest and most advanced password recovery utility, supporting five unique modes of attack for over 300 highly-optimized hashing algorithms. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS, and has facilities to help enable distributed password cracking.
+```
+安装：brew install hashcat
+常用参数：
+-a  指定破解模式：“-a 0”字典攻击，“-a 1” 组合攻击；“-a 3”掩码攻击
+-m  指定要破解的 hash 类型：默认为 MD5
+--force 忽略破解过程中的警告
+常用破解模式：
+0：Straight（字典破解）
+1：Combination（组合破解）
+3：Brute-force（掩码暴力破解）
+6：Hybrid Wordlist + Mask（字典+掩码破解）
+7：Hybrid Mask + Wordlist（掩码+字典破解）
+常用掩码设置：
+l：纯小写字母 abcdefghijklmnopqrstuvwxyz
+u：纯大写字母 ABCDEFGHIJKLMNOPQRSTUVWXYZ
+d：纯数字 0123456789
+举例：破解 8 位数字密码
+hashcat -a 3 -m 0 --force 0D7002A70CCDE8BF4BA2A4A5572A85E9(密码md5字符串) ?l?l?l?l?l?l?l?l?l?l?l（11 位密码的掩码）
+```
+![hashcat](images/72-hashcat.webp)
+
+### [Monitorian](https://github.com/emoacht/Monitorian)
+Monitorian is a Windows desktop tool to adjust the brightness of multiple monitors with ease.
+![Monitorian](images/72-Monitorian.png)
+
+### [reveal.js](https://github.com/hakimel/reveal.js)
+reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create beautiful presentations for free. 
+![reveal.js](images/72-reveal.js.webp)
+
