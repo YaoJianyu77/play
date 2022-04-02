@@ -73,3 +73,6 @@ Monitorian is a Windows desktop tool to adjust the brightness of multiple monito
 reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create beautiful presentations for free. 
 ![reveal.js](images/72-reveal.js.webp)
 
+### [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice)
+Collection of advice for prospective and current PhD students. 
+![awesome-phd-advice](images/72-awesome-phd-advice.gif)
