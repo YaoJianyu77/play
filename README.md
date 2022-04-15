@@ -76,3 +76,6 @@ reveal.js is an open source HTML presentation framework. It enables anyone with 
 ### [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice)
 Collection of advice for prospective and current PhD students. 
 ![awesome-phd-advice](images/72-awesome-phd-advice.gif)
+
+### [wiki.js](https://github.com/requarks/wiki)
+Wiki.js | A modern and powerful wiki app built on Node.js. Help you build your own website like wiki. It's simple and fast website building tool.
