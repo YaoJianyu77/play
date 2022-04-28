@@ -1,6 +1,6 @@
 # Hello github records
 
-This project is used for recording all project which I'm interested in. All those interesting projects come from project [hello-github](https://hellogithub.com/)
+This project is used for recording all project and ideas which I'm interested in. All those interesting projects come from project [hello-github](https://hellogithub.com/). And the ideas come from everywhere.
 
 ## 69
 ### [quadsort](https://github.com/scandum/quadsort)
@@ -79,3 +79,7 @@ Collection of advice for prospective and current PhD students.
 
 ### [wiki.js](https://github.com/requarks/wiki)
 Wiki.js | A modern and powerful wiki app built on Node.js. Help you build your own website like wiki. It's simple and fast website building tool.
+
+## 72
+### [rCore-Tutorial-Book](https://github.com/rcore-os/rCore-Tutorial-Book-v3)
+用 Rust 语言从零开始写一个基于 RISC-V 架构的类 Unix 内核。清华大学开源的中文教程，从计算机发展历史开始科普，一步步说到为何操作系统会诞生，以及现代操作系统必须具备的特性。实践方面也是从空文件夹开始，像搭乐高积木一样，慢慢将操作系统的核心开发出来，教程读起来简直像看小说一样让人欲罢不能
