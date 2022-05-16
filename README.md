@@ -80,6 +80,24 @@ Collection of advice for prospective and current PhD students.
 ### [wiki.js](https://github.com/requarks/wiki)
 Wiki.js | A modern and powerful wiki app built on Node.js. Help you build your own website like wiki. It's simple and fast website building tool.
 
-## 72
+## 73
+### [warpd](https://github.com/rvaiya/warpd)
+用键盘代替鼠标的工具。拥有多种操作模式比如方向键移动鼠标和区域选择，但仅支持 Linux 和 macOS 系统
+![warpd](images/73-warpd.gif)
+
+### [rubiks-cube](https://github.com/pengfeiw/rubiks-cube)
+使用 Three.js 制作的 3D 魔方。支持自定义魔方阶数，[在线尝试](https://pengfeiw.github.io/rubiks-cube/)
+![rubiks-cube](images/73-rubiks-cube.webp)
+
+### [dnsguide](https://github.com/EmilHernvall/dnsguide)
+DNS server totally writen by Rust
+
+### [vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio)
+vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+![vcard-personal-portfolio](images/73-vcard-personal-portfolio.png)
+
 ### [rCore-Tutorial-Book](https://github.com/rcore-os/rCore-Tutorial-Book-v3)
-用 Rust 语言从零开始写一个基于 RISC-V 架构的类 Unix 内核。清华大学开源的中文教程，从计算机发展历史开始科普，一步步说到为何操作系统会诞生，以及现代操作系统必须具备的特性。实践方面也是从空文件夹开始，像搭乐高积木一样，慢慢将操作系统的核心开发出来，教程读起来简直像看小说一样让人欲罢不能
+用 Rust 语言从零开始写一个基于 RISC-V 架构的类 Unix 内核。清华大学开源的中文教程，从计算机发展历史开始科普，一步步说到为何操作系统会>诞生，以及现代操作系统必须具备的特性。实践方面也是从空文件夹开始，像搭乐高积木一样，慢慢将操作系统的核心开发出来，教程读起来简直像看>小说一样让人欲罢不能
+
+### [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
+Simple bash commands for parsing data and Linux system maintenance. ![Online](https://onceupon.github.io/Bash-Oneliner/)
