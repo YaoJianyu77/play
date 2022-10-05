@@ -1,4 +1,4 @@
-# Hello github records
+# Play: record all the interesting project and ideas
 
 This project is used for recording all project and ideas which I'm interested in. All those interesting projects has many sources, like project [hello-github](https://hellogithub.com/) or everywhere. And the ideas come from everywhere.
 
