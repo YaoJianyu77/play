@@ -1,8 +1,18 @@
 # Hello github records
 
-This project is used for recording all project and ideas which I'm interested in. All those interesting projects come from project [hello-github](https://hellogithub.com/). And the ideas come from everywhere.
+This project is used for recording all project and ideas which I'm interested in. All those interesting projects has many sources, like project [hello-github](https://hellogithub.com/) or everywhere. And the ideas come from everywhere.
 
-## 73
+## 22-10
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.
+
+### [The Missing Semester of Your CS Education](https://github.com/missing-semester/missing-semester)
+The Missing Semester of Your CS Education. This project is course of MIT and very interesting and useful.
+
+### [计算机科学速成课](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)
+This project is Chinese translation of the course. The course introduces all subjects of computer science quickly, simply, precisely, and briefly.
+
+## 22-05
 ### [warpd](https://github.com/rvaiya/warpd)
 用键盘代替鼠标的工具。拥有多种操作模式比如方向键移动鼠标和区域选择，但仅支持 Linux 和 macOS 系统
 ![warpd](images/73-warpd.gif)
@@ -24,7 +34,7 @@ vCard is a fully responsive personal portfolio website, responsive for all devic
 ### [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
 Simple bash commands for parsing data and Linux system maintenance. [Online](https://onceupon.github.io/Bash-Oneliner/)
 
-## 72
+## 22-04
 ### [hashcat](https://github.com/hashcat/hashcat)
 hashcat is the world's fastest and most advanced password recovery utility, supporting five unique modes of attack for over 300 highly-optimized hashing algorithms. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS, and has facilities to help enable distributed password cracking.
 ```
@@ -63,7 +73,7 @@ Collection of advice for prospective and current PhD students.
 ### [wiki.js](https://github.com/requarks/wiki)
 Wiki.js | A modern and powerful wiki app built on Node.js. Help you build your own website like wiki. It's simple and fast website building tool.
 
-## 71
+## 22-03
 ### [chibicc](https://github.com/rui314/chibicc)
 A small C compiler. It's fun to read it from the [first commit](https://github.com/rui314/chibicc/commit/0522e2d77e3ab82d3b80a5be8dbbdc8d4180561c)
 
@@ -76,7 +86,7 @@ Programmer's guide about how to cook at home (Chinese only).[Related website](ht
 ### [Article](https://github.com/HelloGitHub-Team/Article)
 This is a collection of articles that guide beginners on their first project in Github.
 
-## 70
+## 22-02
 ### [tinyssh](https://github.com/janmojzis/tinyssh)
 极简 SSH 服务器。为了便于学习仅保留了基础功能，而且抛弃了较旧的加密算法。该项目的学习价值大于实用价值，适合对 SSH 和加密知识感兴趣的小伙伴
 
@@ -88,7 +98,7 @@ This is a collection of articles that guide beginners on their first project in 
 JetBrains 为开发者开源的免费字体。该字体形状简单没有不必要的细节，从而阅读起来十分轻松而且小尺寸时显示更加清晰
 ![JetBrainsMono](images/70-JetBrainsMono.png)
 
-## 69
+## 22-01
 
 ### [quadsort](https://github.com/scandum/quadsort)
 一种比快速排序快，稳定的归并排序算法。项目包含原理讲解、C 语言实现、性能对比和排序过程
