@@ -4,9 +4,22 @@ This project is used for recording all project and ideas which I'm interested in
 
 ## 22-10
 ### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+
 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.
 
+### Compilers
+
+- [Harvard CS153 Compilers](https://www.bilibili.com/video/BV1cT4y197hW?share_source=copy_web&vd_source=ab7451f5b47a47ebe1d2419b7091329a)
+  - 作业+课件: 链接: https://pan.baidu.com/s/1xyiQYyLqy3u9TqvTL_Dhcw 提取码: aflc（stored in the Baidu Netdisk /编译原理/compiler_course.zip）
+
+- [Compiler Construction, Sacramento State CSC 151  (Shobaki)](https://www.bilibili.com/video/BV1uJ41187bj?share_source=copy_web&vd_source=ab7451f5b47a47ebe1d2419b7091329a)
+  - 学这个之前, 推荐先去学一下视频里提到的theory of computation
+  - [【Theory of Computation & Automata Theory】 ](https://www.bilibili.com/video/BV1T4411g7iR?share_source=copy_web&vd_source=ab7451f5b47a47ebe1d2419b7091329a)
+  - [【计算理论】加州戴维斯 Theory of Computation (Phillip Rogaway)](https://www.bilibili.com/video/BV1Nt41167aE?share_source=copy_web&vd_source=ab7451f5b47a47ebe1d2419b7091329a)
+- 计算理论很重要吗？
+
 ### [The Missing Semester of Your CS Education](https://github.com/missing-semester/missing-semester)
+
 The Missing Semester of Your CS Education. This project is course of MIT and very interesting and useful.
 
 ### [计算机科学速成课](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)
