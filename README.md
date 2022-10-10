@@ -62,6 +62,12 @@ image.save("astronaut_rides_horse.png")
 
 ![stable diffusion](images/22-10-Stable Diffusion.webp)
 
+### Remote work
+
+[remote working ](https://github.com/greatghoul/remote-working): 主要用于整理中国国内的资源或者对国内受众友好的国外资源
+
+[remote jobs](https://github.com/remoteintech/remote-jobs): A list of semi to fully remote-friendly companies in or around tech.
+
 ## 22-05
 
 ### [warpd](https://github.com/rvaiya/warpd)
