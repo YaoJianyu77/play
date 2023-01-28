@@ -1,8 +1,52 @@
-[TOC]
+- [Play: record all the interesting project and ideas](#play-record-all-the-interesting-project-and-ideas)
+  - [23-01](#23-01)
+    - [pomotroid](#pomotroid)
+  - [22-10](#22-10)
+    - [30-Days-Of-JavaScript:full\_moon\_with\_face:](#30-days-of-javascriptfull_moon_with_face)
+    - [Compilers:full\_moon\_with\_face:](#compilersfull_moon_with_face)
+    - [The Missing Semester of Your CS Education:full\_moon\_with\_face:](#the-missing-semester-of-your-cs-educationfull_moon_with_face)
+    - [计算机科学速成课:full\_moon\_with\_face:](#计算机科学速成课full_moon_with_face)
+    - [Miniflux 2:full\_moon\_with\_face:](#miniflux-2full_moon_with_face)
+    - [Stable Diffusion:full\_moon\_with\_face:](#stable-diffusionfull_moon_with_face)
+    - [Remote work](#remote-work)
+    - [Wowchemy:full\_moon\_with\_face:](#wowchemyfull_moon_with_face)
+    - [Maigret](#maigret)
+  - [22-05](#22-05)
+    - [warpd](#warpd)
+    - [rubiks-cube](#rubiks-cube)
+    - [dnsguide](#dnsguide)
+    - [vcard-personal-portfolio](#vcard-personal-portfolio)
+    - [rCore-Tutorial-Book](#rcore-tutorial-book)
+    - [Bash-Oneliner](#bash-oneliner)
+  - [22-04](#22-04)
+    - [hashcat](#hashcat)
+    - [Monitorian](#monitorian)
+    - [reveal.js](#revealjs)
+    - [awesome-phd-advice](#awesome-phd-advice)
+    - [wiki.js](#wikijs)
+  - [22-03](#22-03)
+    - [chibicc](#chibicc)
+    - [pure bash bible](#pure-bash-bible)
+    - [How to Cook](#how-to-cook)
+    - [Article](#article)
+  - [22-02](#22-02)
+    - [tinyssh](#tinyssh)
+    - [LiveCharts2](#livecharts2)
+    - [JetBrainsMono](#jetbrainsmono)
+  - [22-01](#22-01)
+    - [quadsort](#quadsort)
+    - [minilisp ~hard and boring!!!~ Jump to chibicc](#minilisp-hard-and-boring-jump-to-chibicc)
+
 
 # Play: record all the interesting project and ideas
 
 This project is used for recording all project and ideas which I'm interested in. All those interesting projects has many sources, like project [hello-github](https://hellogithub.com/) or everywhere. And the ideas come from everywhere.
+
+## 23-01
+### [pomotroid](https://github.com/Splode/pomotroid)
+
+Pomotroid is a simple and configurable Pomodoro timer. It aims to provide a visually-pleasing and reliable way to track productivity using the Pomodoro Technique.
+![pomotroid](images/23-01-pomotroid.png)
 
 ## 22-10
 
