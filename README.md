@@ -1,4 +1,12 @@
 - [Play: record all the interesting project and ideas](#play-record-all-the-interesting-project-and-ideas)
+  - [23-02](#23-02)
+    - [oh-my-posh:full\_moon\_with\_face:](#oh-my-poshfull_moon_with_face)
+    - [DevToys](#devtoys)
+    - [chinese-independent-blogs:full\_moon\_with\_face:](#chinese-independent-blogsfull_moon_with_face)
+- [中文独立博客列表](#中文独立博客列表)
+    - [ChatGPT](#chatgpt)
+    - [devguide](#devguide)
+    - [numpy-100:full\_moon\_with\_face:](#numpy-100full_moon_with_face)
   - [23-01](#23-01)
     - [pomotroid](#pomotroid)
   - [22-10](#22-10)
@@ -42,7 +50,38 @@
 
 This project is used for recording all project and ideas which I'm interested in. All those interesting projects has many sources, like project [hello-github](https://hellogithub.com/) or everywhere. And the ideas come from everywhere.
 
+## 23-02
+
+### [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh):full_moon_with_face:
+
+A blazing fast cross platform/shell prompt renderer.
+
+![oh-my-gosh](images/23-02-oh-my-posh.png)
+
+### [DevToys](https://github.com/veler/DevToys)
+
+DevToys helps in daily tasks like formatting JSON, comparing text, testing RegExp. No need to use many untruthful websites to do simple tasks with your data. With Smart Detection, DevToys is able to detect the best tool that can treat the data you copied in the clipboard of your Windows. Compact overlay lets you keep the app in small and on top of other windows. Multiple instances of the app can be used at once.
+
+![DevToys](images/23-02-DevToys.png)
+
+### [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs):full_moon_with_face:
+
+# 中文独立博客列表
+
+### [ChatGPT](https://github.com/lencx/ChatGPT)
+
+ChatGPT Desktop Application (Mac, Windows and Linux) that is simply a website wrapper that extends the functionality of the original website.
+
+### [devguide](https://github.com/python/devguide)
+
+This guide covers how to contribute to CPython. It is known by the nickname of "the devguide" by the Python core developers.
+
+### [numpy-100](https://github.com/rougier/numpy-100):full_moon_with_face:
+
+This is a collection of numpy exercises from numpy mailing list, stack overflow, and numpy documentation. I've also created some problems myself to reach the 100 limit. The goal of this collection is to offer a quick reference for both old and new users but also to provide a set of exercises for those who teach. For extended exercises, make sure to read [From Python to NumPy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/).
+
 ## 23-01
+
 ### [pomotroid](https://github.com/Splode/pomotroid)
 
 Pomotroid is a simple and configurable Pomodoro timer. It aims to provide a visually-pleasing and reliable way to track productivity using the Pomodoro Technique.
@@ -225,3 +264,5 @@ JetBrains 为开发者开源的免费字体。该字体形状简单没有不必�
 (define a (+ 1 2))
 (+ a a)  ; -> 6
 ```
+
+[def]: #minilisp-hard-and-boring-jump-to-chibicc
