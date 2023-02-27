@@ -66,7 +66,7 @@ DevToys helps in daily tasks like formatting JSON, comparing text, testing RegEx
 
 ### [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs):full_moon_with_face:
 
-# 中文独立博客列表
+中文独立博客列表
 
 ### [ChatGPT](https://github.com/lencx/ChatGPT)
 
