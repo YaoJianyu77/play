@@ -3,7 +3,6 @@
     - [oh-my-posh:full\_moon\_with\_face:](#oh-my-poshfull_moon_with_face)
     - [DevToys](#devtoys)
     - [chinese-independent-blogs:full\_moon\_with\_face:](#chinese-independent-blogsfull_moon_with_face)
-- [中文独立博客列表](#中文独立博客列表)
     - [ChatGPT](#chatgpt)
     - [devguide](#devguide)
     - [numpy-100:full\_moon\_with\_face:](#numpy-100full_moon_with_face)
