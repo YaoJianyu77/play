@@ -88,7 +88,7 @@ Pomotroid is a simple and configurable Pomodoro timer. It aims to provide a visu
 
 ## 22-10
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript):full_moon_with_face:
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.
 
