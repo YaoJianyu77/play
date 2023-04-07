@@ -49,6 +49,34 @@
 
 This project is used for recording all project and ideas which I'm interested in. All those interesting projects has many sources, like project [hello-github](https://hellogithub.com/) or everywhere. And the ideas come from everywhere.
 
+## 23-04
+
+### [Hextris](https://github.com/Hextris/hextrish)
+
+这是一款受到俄罗斯方块启发，快节奏的益智游戏。Hextris 大体上和俄罗斯方块玩法一样，通过控制方向消除下落的块。
+
+玩家可以通过 `左/右` 方向键旋转六边形，让下落的彩色条块落在指定的边上，向下方向键可以加快下落速度。通过连接 3 种或以上相同颜色的块，来清除块并获得积分，连续消除有积分加倍的奖励，当色块突破深灰色六边形时游戏结束。
+
+https://hextris.io/
+
+![Hextris](images/23-04-Hextris.gif)
+
+### [lila](https://github.com/lichess-org/lila)
+
+这是一款承诺永远免费、无广告的国际象棋游戏，支持中文。该项目不单单是一款国际象棋的游戏，更像是关于国际象棋一切的平台。因为它除了可以在线对战、人机对战、好友对战、比赛等玩法，还有学习国际象棋的教程、社区以及观战和直播。
+
+https://lichess.org/zh
+
+![lila](images/23-04-lila.png)
+
+### [lifeRestart](https://github.com/VickScarlet/lifeRestart)
+
+游戏里，玩家只需在开局时选天赋、分配初始属性，后面就是看岁月如白驹过隙，转眼就过完了这一生，不满意的话可以点击 `再次重开` 即可开启新的人生。该游戏凭借诙谐幽默的文案，和出乎意料的结局，风靡一时。现在除了上述的经典模式玩法，还新增了名人模式，体验名人的一生
+
+https://liferestart.syaro.io/public/index.html
+
+![lifeRestart](images/23-04-liferestart.gif)
+
 ## 23-02
 
 ### [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh):full_moon_with_face:
