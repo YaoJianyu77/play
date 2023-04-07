@@ -1,15 +1,19 @@
 - [Play: record all the interesting project and ideas](#play-record-all-the-interesting-project-and-ideas)
+  - [23-04](#23-04)
+    - [Hextris](#hextris)
+    - [lila](#lila)
+    - [lifeRestart](#liferestart)
   - [23-02](#23-02)
     - [oh-my-posh:full\_moon\_with\_face:](#oh-my-poshfull_moon_with_face)
     - [DevToys](#devtoys)
     - [chinese-independent-blogs:full\_moon\_with\_face:](#chinese-independent-blogsfull_moon_with_face)
     - [ChatGPT](#chatgpt)
     - [devguide](#devguide)
-    - [numpy-100:full\_moon\_with\_face:](#numpy-100full_moon_with_face)
+    - [numpy-100](#numpy-100)
   - [23-01](#23-01)
     - [pomotroid](#pomotroid)
   - [22-10](#22-10)
-    - [30-Days-Of-JavaScript:full\_moon\_with\_face:](#30-days-of-javascriptfull_moon_with_face)
+    - [30-Days-Of-JavaScript](#30-days-of-javascript)
     - [Compilers:full\_moon\_with\_face:](#compilersfull_moon_with_face)
     - [The Missing Semester of Your CS Education:full\_moon\_with\_face:](#the-missing-semester-of-your-cs-educationfull_moon_with_face)
     - [计算机科学速成课:full\_moon\_with\_face:](#计算机科学速成课full_moon_with_face)
@@ -43,7 +47,6 @@
   - [22-01](#22-01)
     - [quadsort](#quadsort)
     - [minilisp ~hard and boring!!!~ Jump to chibicc](#minilisp-hard-and-boring-jump-to-chibicc)
-
 
 # Play: record all the interesting project and ideas
 
