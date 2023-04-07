@@ -134,11 +134,11 @@ Pomotroid is a simple and configurable Pomodoro timer. It aims to provide a visu
   - [【计算理论】加州戴维斯 Theory of Computation (Phillip Rogaway)](https://www.bilibili.com/video/BV1Nt41167aE?share_source=copy_web&vd_source=ab7451f5b47a47ebe1d2419b7091329a)
 - 计算理论很重要吗？
 
-### [The Missing Semester of Your CS Education](https://github.com/missing-semester/missing-semester):full_moon_with_face:
+### [The Missing Semester of Your CS Education](https://github.com/missing-semester/missing-semester)
 
 The Missing Semester of Your CS Education. This project is course of MIT and very interesting and useful.
 
-### [计算机科学速成课](https://github.com/1c7/Crash-Course-Computer-Science-Chinese):full_moon_with_face:
+### [计算机科学速成课](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)
 
 This project is Chinese translation of the course. The course introduces all subjects of computer science quickly, simply, precisely, and briefly.
 
@@ -177,7 +177,7 @@ with autocast("cuda"):
 image.save("astronaut_rides_horse.png")
 ```
 
-![stable diffusion](images/22-10-Stable Diffusion.webp)
+![stable diffusion](images/22-10-StableDiffusion.webp)
 
 ### Remote work
 
