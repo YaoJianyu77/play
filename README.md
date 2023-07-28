@@ -60,7 +60,7 @@ This project is used for recording all project and ideas which I'm interested in
 
 在终端中模拟电影里的数据解密效果。这是一个可以在终端中模拟 1992 年《通天神偷》电影中的数据解密效果的命令行工具。它可以将 ASCII 或 UTF-8 文本，用好莱坞式的解密效果展示。
 
-![No-More-Secrets](C:\Users\10484\OneDrive\Play\play\images\23-07-No-More-Secrets.webp)
+![No-More-Secrets](images/23-07-No-More-Secrets.webp)
 
 ## 23-04
 
