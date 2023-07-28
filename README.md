@@ -1,4 +1,6 @@
 - [Play: record all the interesting project and ideas](#play-record-all-the-interesting-project-and-ideas)
+  - [23-07](#23-07)
+    - [No-More-Secrets](#no-more-secrets)
   - [23-04](#23-04)
     - [Hextris](#hextris)
     - [lila](#lila)
@@ -15,8 +17,8 @@
   - [22-10](#22-10)
     - [30-Days-Of-JavaScript](#30-days-of-javascript)
     - [Compilers:full\_moon\_with\_face:](#compilersfull_moon_with_face)
-    - [The Missing Semester of Your CS Education:full\_moon\_with\_face:](#the-missing-semester-of-your-cs-educationfull_moon_with_face)
-    - [计算机科学速成课:full\_moon\_with\_face:](#计算机科学速成课full_moon_with_face)
+    - [The Missing Semester of Your CS Education](#the-missing-semester-of-your-cs-education)
+    - [计算机科学速成课](#计算机科学速成课)
     - [Miniflux 2:full\_moon\_with\_face:](#miniflux-2full_moon_with_face)
     - [Stable Diffusion:full\_moon\_with\_face:](#stable-diffusionfull_moon_with_face)
     - [Remote work](#remote-work)
@@ -51,6 +53,14 @@
 # Play: record all the interesting project and ideas
 
 This project is used for recording all project and ideas which I'm interested in. All those interesting projects has many sources, like project [hello-github](https://hellogithub.com/) or everywhere. And the ideas come from everywhere.
+
+## 23-07
+
+### [No-More-Secrets](https://github.com/bartobri/no-more-secrets)
+
+在终端中模拟电影里的数据解密效果。这是一个可以在终端中模拟 1992 年《通天神偷》电影中的数据解密效果的命令行工具。它可以将 ASCII 或 UTF-8 文本，用好莱坞式的解密效果展示。
+
+![No-More-Secrets](C:\Users\10484\OneDrive\Play\play\images\23-07-No-More-Secrets.webp)
 
 ## 23-04
 
