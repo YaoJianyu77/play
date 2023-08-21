@@ -1,4 +1,6 @@
 - [Play: record all the interesting project and ideas](#play-record-all-the-interesting-project-and-ideas)
+  - [23-08](#23-08)
+    - [hackingtool](#hackingtool)
   - [23-07](#23-07)
     - [No-More-Secrets](#no-more-secrets)
   - [23-04](#23-04)
@@ -50,9 +52,16 @@
     - [quadsort](#quadsort)
     - [minilisp ~hard and boring!!!~ Jump to chibicc](#minilisp-hard-and-boring-jump-to-chibicc)
 
+
 # Play: record all the interesting project and ideas
 
 This project is used for recording all project and ideas which I'm interested in. All those interesting projects has many sources, like project [hello-github](https://hellogithub.com/) or everywhere. And the ideas come from everywhere.
+
+## 23-08
+
+### [hackingtool](https://github.com/Z4nzu/hackingtool)
+
+hackingtool 收录了黑客常用的工具们，分为了逆向工程、RAT 工具、网络爬虫、负载注入等等分类，让你全方面掌握相关技能。
 
 ## 23-07
 
