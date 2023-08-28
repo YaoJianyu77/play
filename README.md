@@ -1,6 +1,10 @@
 - [Play: record all the interesting project and ideas](#play-record-all-the-interesting-project-and-ideas)
   - [23-08](#23-08)
+    - [learndb-py](#learndb-py)
+    - [How To Secure A Linux Server](#how-to-secure-a-linux-server)
+    - [cloc](#cloc)
     - [hackingtool](#hackingtool)
+    - [DVWA](#dvwa)
   - [23-07](#23-07)
     - [No-More-Secrets](#no-more-secrets)
   - [23-04](#23-04)
@@ -52,16 +56,50 @@
     - [quadsort](#quadsort)
     - [minilisp ~hard and boring!!!~ Jump to chibicc](#minilisp-hard-and-boring-jump-to-chibicc)
 
-
 # Play: record all the interesting project and ideas
 
 This project is used for recording all project and ideas which I'm interested in. All those interesting projects has many sources, like project [hello-github](https://hellogithub.com/) or everywhere. And the ideas come from everywhere.
 
 ## 23-08
 
+### [learndb-py](https://github.com/spandanb/learndb-py)
+
+*What I Cannot Create, I Do Not Understand -Richard Feynman*
+
+In the spirit of Feynman's immortal words, the goal of this project is to better understand the internals of databases by implementing a relational database management system (RDBMS) (sqlite clone) from scratch.
+
+### [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+
+An evolving how-to guide for securing a Linux server that, hopefully, also teaches you a little about security and why it matters.
+
+
+### [cloc](https://github.com/AlDanial/cloc)
+
+cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+
+```
+prompt> cloc hello.c
+       1 text file.
+       1 unique file.
+       0 files ignored.
+
+https://github.com/AlDanial/cloc v 1.65  T=0.04 s (28.3 files/s, 340.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+C                                1              0              7              5
+-------------------------------------------------------------------------------
+```
+
 ### [hackingtool](https://github.com/Z4nzu/hackingtool)
 
 hackingtool 收录了黑客常用的工具们，分为了逆向工程、RAT 工具、网络爬虫、负载注入等等分类，让你全方面掌握相关技能。
+
+### [DVWA](https://github.com/digininja/DVWA)
+
+Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
+
+The aim of DVWA is to practice some of the most common web vulnerabilities, with various levels of difficulty, with a simple straightforward interface. Please note, there are both documented and undocumented vulnerabilities with this software. This is intentional. You are encouraged to try and discover as many issues as possible.
 
 ## 23-07
 
