@@ -1,4 +1,7 @@
 - [Play: record all the interesting project and ideas](#play-record-all-the-interesting-project-and-ideas)
+  - [23-09](#23-09)
+    - [build-your-own-x](#build-your-own-x)
+    - [Microsoft-Activation-Scripts](#microsoft-activation-scripts)
   - [23-08](#23-08)
     - [learndb-py](#learndb-py)
     - [How To Secure A Linux Server](#how-to-secure-a-linux-server)
@@ -59,6 +62,18 @@
 # Play: record all the interesting project and ideas
 
 This project is used for recording all project and ideas which I'm interested in. All those interesting projects has many sources, like project [hello-github](https://hellogithub.com/) or everywhere. And the ideas come from everywhere.
+
+## 23-09
+
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
+This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
+
+> What I cannot create, I do not understand — Richard Feynman.
+
+### [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
+A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
 ## 23-08
 
