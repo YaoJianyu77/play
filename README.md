@@ -1,6 +1,7 @@
 - [Play: record all the interesting project and ideas](#play-record-all-the-interesting-project-and-ideas)
   - [23-12](#23-12)
     - [Microsoft-Activation-Scripts](#microsoft-activation-scripts)
+    - [Papers-we-love](#papers-we-love)
   - [23-09](#23-09)
     - [build-your-own-x](#build-your-own-x)
     - [Microsoft-Activation-Scripts](#microsoft-activation-scripts-1)
@@ -70,6 +71,10 @@ This project is used for recording all project and ideas which I'm interested in
 ### [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+
+### [Papers-we-love](https://github.com/papers-we-love/papers-we-love)
+
+**Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the [Papers We Love site](http://paperswelove.org/) for more info.
 
 ## 23-09
 
