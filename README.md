@@ -1,4 +1,7 @@
 - [Play: record all the interesting project and ideas](#play-record-all-the-interesting-project-and-ideas)
+  - [24-02](#24-02)
+    - [Ciphey](#ciphey)
+    - [Shell](#shell)
   - [23-12](#23-12)
     - [Microsoft-Activation-Scripts](#microsoft-activation-scripts)
     - [Papers-we-love](#papers-we-love)
@@ -65,6 +68,20 @@
 # Play: record all the interesting project and ideas
 
 This project is used for recording all project and ideas which I'm interested in. All those interesting projects has many sources, like project [hello-github](https://hellogithub.com/) or everywhere. And the ideas come from everywhere.
+
+## 24-02
+
+### [Ciphey](https://github.com/Ciphey/Ciphey)
+
+Fully automated decryption/decoding/cracking tool using natural language processing & artificial intelligence, along with some common sense.
+
+![Ciphey](images/24-02-Ciphey.gif)
+
+### [Shell](https://github.com/moudey/Shell)
+
+Powerful manager for Windows File Explorer context menu.
+
+![Shell](images/24-02-shell.png)
 
 ## 23-12
 
