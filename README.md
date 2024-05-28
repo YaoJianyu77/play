@@ -1,4 +1,6 @@
 - [Play: record all the interesting project and ideas](#play-record-all-the-interesting-project-and-ideas)
+  - [24-05](#24-05)
+    - [Raytracing](#raytracing)
   - [24-02](#24-02)
     - [Ciphey](#ciphey)
     - [Shell](#shell)
@@ -68,6 +70,14 @@
 # Play: record all the interesting project and ideas
 
 This project is used for recording all project and ideas which I'm interested in. All those interesting projects has many sources, like project [hello-github](https://hellogithub.com/) or everywhere. And the ideas come from everywhere.
+
+## 24-05
+
+### [Raytracing](https://github.com/RayTracing/raytracing.github.io)
+
+《Ray Tracing in One Weekend》系列书籍。这是一套光线追踪技术的入门书籍，教你用 C++ 实现一个光线追踪器。光线追踪（Ray Tracing）是一种计算机图形学中的渲染技术，能够通过模拟光线在虚拟场景中的传播，生成出栩栩如生的真实感图像。
+
+![Raytracing](images/24-05-Raytracing.webp)
 
 ## 24-02
 
