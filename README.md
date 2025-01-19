@@ -1,4 +1,9 @@
 - [Play: record all the interesting project and ideas](#play-record-all-the-interesting-project-and-ideas)
+  - [25-01](#25-01)
+    - [90DaysOfDevOps](#90daysofdevops)
+    - [markmap](#markmap)
+    - [icones](#icones)
+    - [moodist](#moodist)
   - [24-05](#24-05)
     - [Raytracing](#raytracing)
   - [24-02](#24-02)
@@ -70,6 +75,30 @@
 # Play: record all the interesting project and ideas
 
 This project is used for recording all project and ideas which I'm interested in. All those interesting projects has many sources, like project [hello-github](https://hellogithub.com/) or everywhere. And the ideas come from everywhere.
+
+## 25-01
+
+### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+
+该项目最初是作者记录自己学习 DevOps 知识的笔记，如今已发展为一个由社区驱动的 DevOps 免费教程，内容涵盖了 DevOps 概念、Linux 基础、计算机网络、容器、Kubernetes、CI/CD、监控和云服务商等。
+
+### [markmap](https://github.com/markmap/markmap)
+
+Build mindmaps with Markdown.
+
+![markmap](images/25-01-markmap.webp)
+
+### [icones](https://github.com/antfu-collective/icones)
+
+Icon Explorer with Instant searching.
+
+![icones](images/25-01-icones.png)
+
+### [moodist](https://github.com/remvze/moodist)
+
+[moodist](https://moodist.mvze.net/) provides ambient sounds for focus and calm.
+
+![moodist](images/25-01-moodist.svg)
 
 ## 24-05
 
