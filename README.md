@@ -1,5 +1,11 @@
 - [Play: record all the interesting project and ideas](#play-record-all-the-interesting-project-and-ideas)
   - [25-01](#25-01)
+    - [sshfs](#sshfs)
+    - [bunster](#bunster)
+    - [daytona](#daytona)
+    - [readset](#readset)
+    - [reference](#reference)
+    - [minimind](#minimind)
     - [90DaysOfDevOps](#90daysofdevops)
     - [markmap](#markmap)
     - [icones](#icones)
@@ -77,6 +83,47 @@
 This project is used for recording all project and ideas which I'm interested in. All those interesting projects has many sources, like project [hello-github](https://hellogithub.com/) or everywhere. And the ideas come from everywhere.
 
 ## 25-01
+
+### [sshfs](https://github.com/libfuse/sshfs)
+
+SSHFS allows you to mount a remote filesystem using SFTP. Most SSH servers support and enable this SFTP access by default, so SSHFS is very simple to use - there's nothing to do on the server-side. 
+
+```
+挂载文件系统
+sshfs [user@]hostname:[directory] mountpoint
+卸载文件系统
+fusermount -u mountpoint
+```
+
+### [bunster](https://github.com/yassinebenaid/bunster)
+
+[bunster](https://bunster.netlify.app/): Compile shell scripts to static binaries.
+![bunster](images/25-01-bunster.gif)
+
+### [daytona](https://github.com/daytonaio/daytona)
+
+[daytona](https://www.daytona.io/): Set up a development environment on any infrastructure using a single command:
+![daytona](images/25-01-daytona.gif)
+
+### [readset](https://github.com/readest/readest)
+
+[Readest](https://github.com/readest/readest) is an open-source ebook reader designed for immersive and deep reading experiences. 
+
+![readset](images/25-01-readset.png)
+
+### [reference](https://github.com/Fechin/reference)
+
+Reference is a collection of cheat sheets contributed by open source angels. It shares a quick reference cheat sheet for developers in a nice layout.
+
+![reference](images/25-01-reference.png)
+
+### [minimind](https://github.com/jingyaogong/minimind)
+
+This open-source project aims to train a tiny language model called [MiniMind](https://jingyaogong.github.io/minimind/) from scratch in just 3 hours, with a model size of only 26.88M. 
+
+This project will serve as an introductory example for researchers, helping them quickly get started and inspiring more exploration and innovation in the LLM field.
+
+![minimind](images/25-01-minimind.gif)
 
 ### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 
